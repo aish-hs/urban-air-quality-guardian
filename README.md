@@ -21,6 +21,10 @@ Urban Air Quality Guardian is an AI-powered environmental intelligence platform 
 * Automatic AQI calculation
 * AQI visualization using an interactive gauge
 
+ ## 🚀 Live Demo
+
+🌍 [Open Urban Air Quality Guardian](https://urban-air-quality-guardian-nbnf2cszws4zcmgq8rhdub.streamlit.app/)
+
 ### 🤖 AI-Based AQI Prediction
 
 * Machine learning-based air quality forecasting
